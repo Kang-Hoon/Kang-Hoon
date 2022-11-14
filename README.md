@@ -1,3 +1,4 @@
+
 <div>
  <h2> Education </h2>
 
@@ -83,6 +84,12 @@
 
 </div>
  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=khlee3179)](https://solved.ac/khlee3179/)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kang-hoon)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKang-Hoon&count_bg=%23DD151E&title_bg=%23008485&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 <!--
 
