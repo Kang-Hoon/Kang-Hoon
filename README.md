@@ -42,16 +42,13 @@
  - <a href="https://me.dankook.ac.kr/web/me/-79?p_p_id=Bbs_WAR_bbsportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_pos=1&p_p_col_count=2&_Bbs_WAR_bbsportlet_orderBy=createDate&_Bbs_WAR_bbsportlet_curPage=34&_Bbs_WAR_bbsportlet_action=view_message&_Bbs_WAR_bbsportlet_messageId=707770"> “4D 역량 공유·확산 로봇 경진대회” </a> - 2nd Prize (최우수상)
  
  <h4> Projects </h4>
- - Personal Website for (Dec 2021 ~ Mar 2022) <br>
- - Mobile App (Mar 2022 ~ May 2022) <br>
-     - Analyzing musical input file and changing
- -  <br>
- - Open Source Contribution (Apr 2022 ~ Jun 2022) <br>
-     - Checking
- <br>
- - MIPS Programming
-
- <br>
+ <ul>
+  <li>Personal Website for (Dec 2021 ~ Mar 2022) <br></li>
+  <li>Mobile App (Mar 2022 ~ May 2022) <br></li>
+  <li> Analyzing musical input file and changing</li>
+  <li>Open Source Contribution (Apr 2022 ~ Jun 2022) <br></li>
+  <li>MIPS Programming</li>
+ </ul>
 
  <h4> Work Experience </h4>
 
@@ -65,13 +62,27 @@
  <h3> Certificates </h3>
  
  <h4> Languages </h4>
- Korean (as native speaker)
- Enlgish
- - TOEIC : 960/990 <br>
- - TOEFL : 87/120
- <!-- Spanish, Chinese, Japanese -->
+ <ul>
+  <li>Korean (as native speaker) </li>
+  <li>Enlgish
+   <li>TOEIC : 960/990 <br></li>
+   <li>TOEFL : 87/120</li>
+  </li>
+   
+  <!-- Spanish, Chinese, Japanese -->
+ </ul>
+ 
+ 
  
 </div>
+
+<div>
+ <h4> Contact Me </h4>
+ 
+ <a href="mailto:khlee3179@gmail.com" target="_blank"><img src="https://img.shields.io/badge/#EA4335-#4285F4?style=flat-square&logo=gmail&logoColor=white"/></a>
+
+</div>
+ 
 
 <!--
 
