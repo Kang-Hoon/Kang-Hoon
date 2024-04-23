@@ -6,7 +6,7 @@
  - Bachelor's Degree
  - Studies : Mobile Systems Engineering
 
- <a href="https://www.ee.cityu.edu.hk/"> City University of Hong Kong (Jul 2019) </a>
+ <a href="https://www.ee.cityu.edu.hk/"> City University of Hong Kong (Jul 2019 ~ Aug 2019) </a>
  - Summer Exchange Study Program
  - Studies : Electrical Engineering
 
@@ -28,8 +28,8 @@
  
  <!-- Python: ◼︎◼︎◼︎◼︎◼︎◻◻◻◻◻ <br>
  C : ◼︎◼︎◼︎◼︎◻◻◻◻◻◻ 
- C++ : 
- Java :
+ C++ : ◼︎◼︎◻◻◻◻◻◻◻◻◻
+ C# : ◼︎◼︎◻◻◻◻◻◻◻◻◻
  JavaScript :
  Kotlin : -->
 
@@ -54,6 +54,7 @@
  <h4> Work Experience </h4>
 
  President of Student Council (Jan 2022 ~ Dec 2022)
+ LIG Nex1 (Sep 2023 ~)
  
 </div>
 
